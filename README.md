@@ -1,9 +1,9 @@
 # The D-App
-API
-.NET
-C#
-Angular
-TypeScript
-Bootstrap
-CSS
+API,
+.NET,
+C#,
+Angular,
+TypeScript,
+Bootstrap,
+CSS,
 FontAwesome
