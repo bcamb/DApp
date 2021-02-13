@@ -5,5 +5,6 @@ C#,
 Angular,
 TypeScript,
 Bootstrap,
+HTML,
 CSS,
-FontAwesome
+FontAwesome,
